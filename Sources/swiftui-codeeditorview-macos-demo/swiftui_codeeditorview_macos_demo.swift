@@ -35,7 +35,13 @@ private struct ContentView: View {
                 Button("加载示例") {
                     text = sampleCode
                     messages = []
+                    position = CodeEditor.Position()
                 }
+
+                Button("Duplicate 当前行 (⌘D)") {
+                    duplicateCurrentLine()
+                }
+                .keyboardShortcut("d", modifiers: [.command])
 
                 Text("字符数 \(text.count)")
                     .foregroundStyle(.secondary)
@@ -53,4 +59,34 @@ private struct ContentView: View {
         }
         .padding(16)
     }
+
+    private func duplicateCurrentLine() {
+        let result = duplicateCurrentLineInText(
+            in: text,
+            selection: position.selections.first ?? NSRange(location: 0, length: 0)
+        )
+        text = result.text
+        position.selections = [result.selection]
+    }
+}
+
+private func duplicateCurrentLineInText(in text: String, selection: NSRange) -> (text: String, selection: NSRange) {
+    let nsText = text as NSString
+    let location = min(selection.location, nsText.length)
+    let lineRange = nsText.lineRange(for: NSRange(location: location, length: 0))
+    let lineText = nsText.substring(with: lineRange)
+    let insertionText =
+        lineRange.upperBound == nsText.length && !lineText.hasSuffix("\n")
+        ? "\n" + lineText
+        : lineText
+    let insertedLength = (insertionText as NSString).length
+    let updatedText = nsText.replacingCharacters(
+        in: NSRange(location: lineRange.upperBound, length: 0),
+        with: insertionText
+    )
+
+    return (
+        text: updatedText,
+        selection: NSRange(location: location + insertedLength, length: selection.length)
+    )
 }
