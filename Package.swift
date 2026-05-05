@@ -8,6 +8,7 @@ let package = Package(
     platforms: [.macOS(.v14)],
     dependencies: [
         .package(url: "https://github.com/mchakravarty/CodeEditorView.git", from: "0.15.4"),
+        .package(url: "https://github.com/swiftlang/swift-syntax.git", from: "600.0.1"),
     ],
     targets: [
         .executableTarget(
@@ -15,6 +16,8 @@ let package = Package(
             dependencies: [
                 .product(name: "CodeEditorView", package: "CodeEditorView"),
                 .product(name: "LanguageSupport", package: "CodeEditorView"),
+                .product(name: "SwiftParser", package: "swift-syntax"),
+                .product(name: "SwiftSyntax", package: "swift-syntax"),
             ]
         ),
     ]
