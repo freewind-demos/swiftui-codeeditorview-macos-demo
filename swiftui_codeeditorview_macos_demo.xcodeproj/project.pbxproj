@@ -1,0 +1,367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		40CC939A7B40E65BC3E9B190 /* SwiftSyntax in Frameworks */ = {isa = PBXBuildFile; productRef = BF9077EC30CEA44E92B70394 /* SwiftSyntax */; };
+		95D426448632DD88872D66CB /* CodeEditorView in Frameworks */ = {isa = PBXBuildFile; productRef = B2D5DE31F7AAA3C1BE3881D1 /* CodeEditorView */; };
+		B3B5D7A9D2E94CC119F474B3 /* swiftui_codeeditorview_macos_demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7F24ACEB4FDF07686EB98B /* swiftui_codeeditorview_macos_demo.swift */; };
+		D7235C5582938C74062FE892 /* LanguageSupport in Frameworks */ = {isa = PBXBuildFile; productRef = 9EA170ED1B1B9A237FD7B44D /* LanguageSupport */; };
+		EAB3CCF491F54BB9596981AC /* SwiftParser in Frameworks */ = {isa = PBXBuildFile; productRef = 55102300DF834350307BBE2B /* SwiftParser */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		013B2738E8B6EBEA575FCB12 /* swiftui_codeeditorview_macos_demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftui_codeeditorview_macos_demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA7F24ACEB4FDF07686EB98B /* swiftui_codeeditorview_macos_demo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftui_codeeditorview_macos_demo.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3B5DB95BF6FF3C1FCA76CF3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				95D426448632DD88872D66CB /* CodeEditorView in Frameworks */,
+				D7235C5582938C74062FE892 /* LanguageSupport in Frameworks */,
+				EAB3CCF491F54BB9596981AC /* SwiftParser in Frameworks */,
+				40CC939A7B40E65BC3E9B190 /* SwiftSyntax in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8DCF0D84CEA0BC6D445BC6AA /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				B5D6530BDA3FAC69EBFE3493 /* swiftui-codeeditorview-macos-demo */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		B5D6530BDA3FAC69EBFE3493 /* swiftui-codeeditorview-macos-demo */ = {
+			isa = PBXGroup;
+			children = (
+				BA7F24ACEB4FDF07686EB98B /* swiftui_codeeditorview_macos_demo.swift */,
+			);
+			path = "swiftui-codeeditorview-macos-demo";
+			sourceTree = "<group>";
+		};
+		B982F9E1A06F40C4E8B8618F = {
+			isa = PBXGroup;
+			children = (
+				8DCF0D84CEA0BC6D445BC6AA /* Sources */,
+				D193FF879D6B76CFD73A51CF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D193FF879D6B76CFD73A51CF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				013B2738E8B6EBEA575FCB12 /* swiftui_codeeditorview_macos_demo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8EF16886351DD7332E034645 /* swiftui_codeeditorview_macos_demo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BE2222B58A54B8E52C4D0AB5 /* Build configuration list for PBXNativeTarget "swiftui_codeeditorview_macos_demo" */;
+			buildPhases = (
+				83B915DC666208B13434305B /* Sources */,
+				3B5DB95BF6FF3C1FCA76CF3D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = swiftui_codeeditorview_macos_demo;
+			packageProductDependencies = (
+				B2D5DE31F7AAA3C1BE3881D1 /* CodeEditorView */,
+				9EA170ED1B1B9A237FD7B44D /* LanguageSupport */,
+				55102300DF834350307BBE2B /* SwiftParser */,
+				BF9077EC30CEA44E92B70394 /* SwiftSyntax */,
+			);
+			productName = swiftui_codeeditorview_macos_demo;
+			productReference = 013B2738E8B6EBEA575FCB12 /* swiftui_codeeditorview_macos_demo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1287B47725D30721EB28FD1A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					8EF16886351DD7332E034645 = {
+						DevelopmentTeam = "";
+						ProvisioningStyle = Manual;
+					};
+				};
+			};
+			buildConfigurationList = 86417DFDD5CA2B2791D80ECF /* Build configuration list for PBXProject "swiftui_codeeditorview_macos_demo" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = B982F9E1A06F40C4E8B8618F;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				60F2CAD23E481E7AA5C7D8D7 /* XCRemoteSwiftPackageReference "CodeEditorView" */,
+				10422A312022C713FD990E34 /* XCRemoteSwiftPackageReference "swift-syntax" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D193FF879D6B76CFD73A51CF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8EF16886351DD7332E034645 /* swiftui_codeeditorview_macos_demo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		83B915DC666208B13434305B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3B5D7A9D2E94CC119F474B3 /* swiftui_codeeditorview_macos_demo.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5CE8277706C547CBCCCAC619 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Release;
+		};
+		67DF062348963CFE578DD0AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_HARDENED_RUNTIME = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.freewind.swiftuicodeeditorviewmacosdemo;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		E9C342CD9B6C1AC524CBDF89 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.9;
+			};
+			name = Debug;
+		};
+		FDA77046F4F868797B5D76E3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_HARDENED_RUNTIME = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.freewind.swiftuicodeeditorviewmacosdemo;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		86417DFDD5CA2B2791D80ECF /* Build configuration list for PBXProject "swiftui_codeeditorview_macos_demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E9C342CD9B6C1AC524CBDF89 /* Debug */,
+				5CE8277706C547CBCCCAC619 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		BE2222B58A54B8E52C4D0AB5 /* Build configuration list for PBXNativeTarget "swiftui_codeeditorview_macos_demo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				67DF062348963CFE578DD0AC /* Debug */,
+				FDA77046F4F868797B5D76E3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		10422A312022C713FD990E34 /* XCRemoteSwiftPackageReference "swift-syntax" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/swiftlang/swift-syntax.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 600.0.1;
+			};
+		};
+		60F2CAD23E481E7AA5C7D8D7 /* XCRemoteSwiftPackageReference "CodeEditorView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/mchakravarty/CodeEditorView.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.15.4;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		55102300DF834350307BBE2B /* SwiftParser */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 10422A312022C713FD990E34 /* XCRemoteSwiftPackageReference "swift-syntax" */;
+			productName = SwiftParser;
+		};
+		9EA170ED1B1B9A237FD7B44D /* LanguageSupport */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60F2CAD23E481E7AA5C7D8D7 /* XCRemoteSwiftPackageReference "CodeEditorView" */;
+			productName = LanguageSupport;
+		};
+		B2D5DE31F7AAA3C1BE3881D1 /* CodeEditorView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 60F2CAD23E481E7AA5C7D8D7 /* XCRemoteSwiftPackageReference "CodeEditorView" */;
+			productName = CodeEditorView;
+		};
+		BF9077EC30CEA44E92B70394 /* SwiftSyntax */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 10422A312022C713FD990E34 /* XCRemoteSwiftPackageReference "swift-syntax" */;
+			productName = SwiftSyntax;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 1287B47725D30721EB28FD1A /* Project object */;
+}
