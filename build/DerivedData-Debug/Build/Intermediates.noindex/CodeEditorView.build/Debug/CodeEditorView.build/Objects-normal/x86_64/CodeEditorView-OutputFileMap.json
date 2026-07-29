@@ -1,0 +1,198 @@
+{
+  "" : {
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditorView-master.dia",
+    "emit-module-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditorView-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditorView-master-emit-module.dia",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditorView-master.swiftdeps"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/CodeActions.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeActions~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/CodeEditing.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditing~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/CodeEditor.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeEditor~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/CodeStorage.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorage~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/CodeStorageDelegate.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeStorageDelegate~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/CodeView.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/CodeView~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/Constants.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Constants~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/GutterView.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/GutterView~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/LineMap.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/LineMap~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/MessageViews.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MessageViews~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/MinimapView.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/MinimapView~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/OSDefinitions.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/OSDefinitions~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/ScrollViewExtras.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ScrollViewExtras~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/TextContentStorageExtras.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextContentStorageExtras~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/TextLayoutManagerExtras.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextLayoutManagerExtras~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/TextView.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/TextView~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/Theme.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/Theme~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/UIHostingView.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/UIHostingView~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/SourcePackages/checkouts/CodeEditorView/Sources/CodeEditorView/ViewModifiers.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers.dia",
+    "index-unit-output-path" : "/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-codeeditorview-macos-demo/build/DerivedData-Debug/Build/Intermediates.noindex/CodeEditorView.build/Debug/CodeEditorView.build/Objects-normal/x86_64/ViewModifiers~partial.swiftmodule"
+  }
+}
